@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF742F6-20D9-4548-BF71-CC1A7BF292B4}|S4_UrunListesi\\S4_UrunListesi.csproj|c:\\users\\muham\\onedrive\\desktop\\g\u00F6rsel programlama deneme\\s4_urunlistesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFF742F6-20D9-4548-BF71-CC1A7BF292B4}|S4_UrunListesi\\S4_UrunListesi.csproj|solutionrelative:s4_urunlistesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD84EE7-B68F-4196-91A5-06277FD2231E}|S3_ScrollBarRenk\\S3_ScrollBarRenk.csproj|c:\\users\\muham\\onedrive\\desktop\\g\u00F6rsel programlama deneme\\s3_scrollbarrenk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECD84EE7-B68F-4196-91A5-06277FD2231E}|S3_ScrollBarRenk\\S3_ScrollBarRenk.csproj|solutionrelative:s3_scrollbarrenk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01A6370-32A5-4B0B-A49B-FDE5CDC62773}|S2_SurukleBirak\\S2_SurukleBirak.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\s2_suruklebirak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E01A6370-32A5-4B0B-A49B-FDE5CDC62773}|S2_SurukleBirak\\S2_SurukleBirak.csproj|solutionrelative:s2_suruklebirak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C838A7F9-67A6-4BC5-A2E7-CD5FA25D2F16}|S1_ListBoxArama\\S1_ListBoxArama.csproj|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\s1_listboxarama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C838A7F9-67A6-4BC5-A2E7-CD5FA25D2F16}|S1_ListBoxArama\\S1_ListBoxArama.csproj|solutionrelative:s1_listboxarama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S4_UrunListesi\\Form1.cs",
+              "RelativeDocumentMoniker": "S4_UrunListesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S4_UrunListesi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S4_UrunListesi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T11:09:13.969Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S3_ScrollBarRenk\\Form1.cs",
+              "RelativeDocumentMoniker": "S3_ScrollBarRenk\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S3_ScrollBarRenk\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S3_ScrollBarRenk\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:56:03.209Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S2_SurukleBirak\\Form1.cs",
+              "RelativeDocumentMoniker": "S2_SurukleBirak\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S2_SurukleBirak\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S2_SurukleBirak\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:55:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S1_ListBoxArama\\Form1.cs",
+              "RelativeDocumentMoniker": "S1_ListBoxArama\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama Deneme\\S1_ListBoxArama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S1_ListBoxArama\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:55:36.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\S1_ListBoxArama",
+    "\\S2_SurukleBirak",
+    "\\S3_ScrollBarRenk",
+    "\\S4_UrunListesi",
+    "\\S5_ButonHareket",
+    "\\S5_ButonHareket\\Properties"
+  ],
+  "SelectedNode": "\\S5_ButonHareket\\Properties\\AssemblyInfo.cs",
+  "PreviewInSolutionExplorer": false
+}

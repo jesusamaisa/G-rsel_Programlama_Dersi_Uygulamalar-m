@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\bin\Debug\S4_UrunListesi.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\bin\Debug\S4_UrunListesi.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\bin\Debug\S4_UrunListesi.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S4_UrunListesi\obj\Debug\S4_UrunListesi.pdb

@@ -1,0 +1,14 @@
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\bin\Debug\net8.0-windows\U058_FontIslemleri.exe
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\bin\Debug\net8.0-windows\U058_FontIslemleri.deps.json
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\bin\Debug\net8.0-windows\U058_FontIslemleri.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\bin\Debug\net8.0-windows\U058_FontIslemleri.dll
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\bin\Debug\net8.0-windows\U058_FontIslemleri.pdb
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.dll
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\refint\U058_FontIslemleri.dll
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.pdb
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\U058_FontIslemleri.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U058_FontIslemleri\obj\Debug\net8.0-windows\ref\U058_FontIslemleri.dll

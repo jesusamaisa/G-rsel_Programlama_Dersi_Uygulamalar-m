@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\bin\Debug\S5_ButonHareket.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\bin\Debug\S5_ButonHareket.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\bin\Debug\S5_ButonHareket.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S5_ButonHareket\obj\Debug\S5_ButonHareket.pdb

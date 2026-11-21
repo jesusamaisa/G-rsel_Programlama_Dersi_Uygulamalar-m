@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "U060_KonumBoyutAyari/1.0.0": {
+        "runtime": {
+          "U060_KonumBoyutAyari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U060_KonumBoyutAyari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

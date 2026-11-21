@@ -1,0 +1,28 @@
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\bin\Debug\net8.0-windows\U057_VisibleAskerlik.exe
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\bin\Debug\net8.0-windows\U057_VisibleAskerlik.deps.json
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\bin\Debug\net8.0-windows\U057_VisibleAskerlik.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\bin\Debug\net8.0-windows\U057_VisibleAskerlik.dll
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\bin\Debug\net8.0-windows\U057_VisibleAskerlik.pdb
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.dll
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\refint\U057_VisibleAskerlik.dll
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.pdb
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U057_VisibleAskerlik\obj\Debug\net8.0-windows\ref\U057_VisibleAskerlik.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\bin\Debug\net8.0-windows\VisibleAskerlik.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\bin\Debug\net8.0-windows\VisibleAskerlik.deps.json
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\bin\Debug\net8.0-windows\VisibleAskerlik.runtimeconfig.json
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\bin\Debug\net8.0-windows\VisibleAskerlik.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\bin\Debug\net8.0-windows\VisibleAskerlik.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\VisibleAskerlik.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\refint\VisibleAskerlik.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\VisibleAskerlik.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\U057_VisibleAskerlik.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\VisibleAskerlik\obj\Debug\net8.0-windows\ref\VisibleAskerlik.dll

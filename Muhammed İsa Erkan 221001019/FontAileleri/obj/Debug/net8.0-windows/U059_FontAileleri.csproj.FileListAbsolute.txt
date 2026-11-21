@@ -1,0 +1,14 @@
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\bin\Debug\net8.0-windows\U059_FontAileleri.exe
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\bin\Debug\net8.0-windows\U059_FontAileleri.deps.json
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\bin\Debug\net8.0-windows\U059_FontAileleri.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\bin\Debug\net8.0-windows\U059_FontAileleri.dll
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\bin\Debug\net8.0-windows\U059_FontAileleri.pdb
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.dll
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\refint\U059_FontAileleri.dll
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.pdb
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\U059_FontAileleri.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U059_FontAileleri\obj\Debug\net8.0-windows\ref\U059_FontAileleri.dll

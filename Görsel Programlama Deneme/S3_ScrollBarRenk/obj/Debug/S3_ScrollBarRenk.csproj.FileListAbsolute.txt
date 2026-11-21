@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\bin\Debug\S3_ScrollBarRenk.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\bin\Debug\S3_ScrollBarRenk.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\bin\Debug\S3_ScrollBarRenk.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S3_ScrollBarRenk\obj\Debug\S3_ScrollBarRenk.pdb

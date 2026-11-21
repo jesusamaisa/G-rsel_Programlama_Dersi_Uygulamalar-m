@@ -1,0 +1,14 @@
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\bin\Debug\net8.0-windows\U065_DockOrnegi.exe
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\bin\Debug\net8.0-windows\U065_DockOrnegi.deps.json
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\bin\Debug\net8.0-windows\U065_DockOrnegi.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\bin\Debug\net8.0-windows\U065_DockOrnegi.dll
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\bin\Debug\net8.0-windows\U065_DockOrnegi.pdb
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.dll
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\refint\U065_DockOrnegi.dll
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.pdb
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\U065_DockOrnegi.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U065_DockOrnegi\obj\Debug\net8.0-windows\ref\U065_DockOrnegi.dll

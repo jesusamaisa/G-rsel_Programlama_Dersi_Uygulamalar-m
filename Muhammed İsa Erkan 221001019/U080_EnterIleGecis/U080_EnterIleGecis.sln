@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U080_EnterIleGecis", "U080_EnterIleGecis\U080_EnterIleGecis.csproj", "{666F76AB-EC83-46C5-BA2E-BF8939929E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666F76AB-EC83-46C5-BA2E-BF8939929E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666F76AB-EC83-46C5-BA2E-BF8939929E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666F76AB-EC83-46C5-BA2E-BF8939929E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666F76AB-EC83-46C5-BA2E-BF8939929E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5221F7-E55D-4827-9B89-CD414B790D03}
+	EndGlobalSection
+EndGlobal

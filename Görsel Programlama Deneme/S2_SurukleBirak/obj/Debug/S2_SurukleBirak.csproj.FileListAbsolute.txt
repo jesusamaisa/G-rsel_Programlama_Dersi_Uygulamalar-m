@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\bin\Debug\S2_SurukleBirak.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\bin\Debug\S2_SurukleBirak.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\bin\Debug\S2_SurukleBirak.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S2_SurukleBirak\obj\Debug\S2_SurukleBirak.pdb

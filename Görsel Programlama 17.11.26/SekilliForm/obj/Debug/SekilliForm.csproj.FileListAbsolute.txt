@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\bin\Debug\SekilliForm.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\bin\Debug\SekilliForm.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\bin\Debug\SekilliForm.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\SekilliForm\obj\Debug\SekilliForm.pdb

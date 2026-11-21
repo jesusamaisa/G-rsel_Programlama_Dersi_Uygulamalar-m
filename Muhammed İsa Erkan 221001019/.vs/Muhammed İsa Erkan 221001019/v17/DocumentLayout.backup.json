@@ -1,0 +1,1183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mesaj Pencereleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mesaj Pencereleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mesaj Pencereleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mesaj Pencereleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\MesajPencereleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mesaj Pencereleri\\MesajPencereleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontIslemleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\FontIslemleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontIslemleri\\FontIslemleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\FontAileleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontAileleri\\FontAileleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnabledBaglanti\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnabledBaglanti\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnabledBaglanti\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnabledBaglanti\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\EnabledBaglanti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnabledBaglanti\\EnabledBaglanti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DockOrnegi\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DockOrnegi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DockOrnegi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DockOrnegi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\DockOrnegi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DockOrnegi\\DockOrnegi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ButonHizalama\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ButonHizalama\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ButonHizalama\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ButonHizalama\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\ButonHizalama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ButonHizalama\\ButonHizalama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnchorOrnegi\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\AnchorOrnegi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnchorOrnegi\\AnchorOrnegi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnchorOrnegi\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnchorOrnegi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnchorOrnegi\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontIslemleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontIslemleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FontIslemleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KonumBoyutAyari\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\KonumBoyutAyari.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KonumBoyutAyari\\KonumBoyutAyari.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KonumBoyutAyari\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KonumBoyutAyari\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KonumBoyutAyari\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\ScaleMetodu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaleMetodu\\ScaleMetodu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaleMetodu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaleMetodu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaleMetodu\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaleMetodu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0130nput Box\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0130nput Box\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0130nput Box\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\InputBox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0130nput Box\\InputBox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0130nput Box\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\ZiplayanTop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZiplayanTop\\ZiplayanTop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZiplayanTop\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZiplayanTop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZiplayanTop\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZiplayanTop\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\U062_ScaleMetodu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U062_ScaleMetodu\\U062_ScaleMetodu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U062_ScaleMetodu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U062_ScaleMetodu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\.vs\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisibleAskerlik\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisibleAskerlik\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisibleAskerlik\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisibleAskerlik\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\VisibleAskerlik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VisibleAskerlik\\VisibleAskerlik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FontIslemleri.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\FontIslemleri.csproj",
+              "RelativeDocumentMoniker": "FontIslemleri\\FontIslemleri.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\FontIslemleri.csproj",
+              "RelativeToolTip": "FontIslemleri\\FontIslemleri.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:59:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:04:14.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FontAileleri.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\FontAileleri.csproj",
+              "RelativeDocumentMoniker": "FontAileleri\\FontAileleri.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\FontAileleri.csproj",
+              "RelativeToolTip": "FontAileleri\\FontAileleri.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:02:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.cs",
+              "RelativeDocumentMoniker": "FontIslemleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.cs",
+              "RelativeToolTip": "FontIslemleri\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:48:38.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.cs",
+              "RelativeDocumentMoniker": "Mesaj Pencereleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.cs",
+              "RelativeToolTip": "Mesaj Pencereleri\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:08:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MesajPencereleri.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\MesajPencereleri.csproj",
+              "RelativeDocumentMoniker": "Mesaj Pencereleri\\MesajPencereleri.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\MesajPencereleri.csproj",
+              "RelativeToolTip": "Mesaj Pencereleri\\MesajPencereleri.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:15:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\README.md",
+              "RelativeDocumentMoniker": "Mesaj Pencereleri\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\README.md",
+              "RelativeToolTip": "Mesaj Pencereleri\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T12:10:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Program.cs",
+              "RelativeDocumentMoniker": "Mesaj Pencereleri\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Program.cs",
+              "RelativeToolTip": "Mesaj Pencereleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:10:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Mesaj Pencereleri\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\Mesaj Pencereleri\\Form1.Designer.cs",
+              "RelativeToolTip": "Mesaj Pencereleri\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:09:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\README.md",
+              "RelativeDocumentMoniker": "FontAileleri\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\README.md",
+              "RelativeToolTip": "FontAileleri\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:24:44.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Program.cs",
+              "RelativeDocumentMoniker": "FontAileleri\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Program.cs",
+              "RelativeToolTip": "FontAileleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:02:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "FontAileleri\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.Designer.cs",
+              "RelativeToolTip": "FontAileleri\\Form2.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:02:14.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.cs",
+              "RelativeDocumentMoniker": "FontAileleri\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form2.cs",
+              "RelativeToolTip": "FontAileleri\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:02:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FontAileleri\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.Designer.cs",
+              "RelativeToolTip": "FontAileleri\\Form1.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:01:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.cs",
+              "RelativeDocumentMoniker": "FontAileleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontAileleri\\Form1.cs",
+              "RelativeToolTip": "FontAileleri\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:01:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\README.md",
+              "RelativeDocumentMoniker": "EnabledBaglanti\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\README.md",
+              "RelativeToolTip": "EnabledBaglanti\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T12:21:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Program.cs",
+              "RelativeDocumentMoniker": "EnabledBaglanti\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Program.cs",
+              "RelativeToolTip": "EnabledBaglanti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:21:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EnabledBaglanti\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.Designer.cs",
+              "RelativeToolTip": "EnabledBaglanti\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:20:54.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.cs",
+              "RelativeDocumentMoniker": "EnabledBaglanti\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\Form1.cs",
+              "RelativeToolTip": "EnabledBaglanti\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:22:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnabledBaglanti.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\EnabledBaglanti.csproj",
+              "RelativeDocumentMoniker": "EnabledBaglanti\\EnabledBaglanti.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\EnabledBaglanti\\EnabledBaglanti.csproj",
+              "RelativeToolTip": "EnabledBaglanti\\EnabledBaglanti.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:20:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\README.md",
+              "RelativeDocumentMoniker": "DockOrnegi\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\README.md",
+              "RelativeToolTip": "DockOrnegi\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:29:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Program.cs",
+              "RelativeDocumentMoniker": "DockOrnegi\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Program.cs",
+              "RelativeToolTip": "DockOrnegi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:29:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DockOrnegi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.Designer.cs",
+              "RelativeToolTip": "DockOrnegi\\Form1.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:29:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.cs",
+              "RelativeDocumentMoniker": "DockOrnegi\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\Form1.cs",
+              "RelativeToolTip": "DockOrnegi\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:29:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DockOrnegi.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\DockOrnegi.csproj",
+              "RelativeDocumentMoniker": "DockOrnegi\\DockOrnegi.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\DockOrnegi\\DockOrnegi.csproj",
+              "RelativeToolTip": "DockOrnegi\\DockOrnegi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:29:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AnchorOrnegi.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\AnchorOrnegi.csproj",
+              "RelativeDocumentMoniker": "AnchorOrnegi\\AnchorOrnegi.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\AnchorOrnegi.csproj",
+              "RelativeToolTip": "AnchorOrnegi\\AnchorOrnegi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:33:56.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\README.md",
+              "RelativeDocumentMoniker": "ButonHizalama\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\README.md",
+              "RelativeToolTip": "ButonHizalama\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:32:22.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Program.cs",
+              "RelativeDocumentMoniker": "ButonHizalama\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Program.cs",
+              "RelativeToolTip": "ButonHizalama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:32:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ButonHizalama\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.Designer.cs",
+              "RelativeToolTip": "ButonHizalama\\Form1.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:33:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.cs",
+              "RelativeDocumentMoniker": "ButonHizalama\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\Form1.cs",
+              "RelativeToolTip": "ButonHizalama\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:33:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.cs",
+              "RelativeDocumentMoniker": "AnchorOrnegi\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.cs",
+              "RelativeToolTip": "AnchorOrnegi\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:35:36.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ButonHizalama.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\ButonHizalama.csproj",
+              "RelativeDocumentMoniker": "ButonHizalama\\ButonHizalama.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ButonHizalama\\ButonHizalama.csproj",
+              "RelativeToolTip": "ButonHizalama\\ButonHizalama.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:32:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\README.md",
+              "RelativeDocumentMoniker": "AnchorOrnegi\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\README.md",
+              "RelativeToolTip": "AnchorOrnegi\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:34:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Program.cs",
+              "RelativeDocumentMoniker": "AnchorOrnegi\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Program.cs",
+              "RelativeToolTip": "AnchorOrnegi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:35:00.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AnchorOrnegi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\AnchorOrnegi\\Form1.Designer.cs",
+              "RelativeToolTip": "AnchorOrnegi\\Form1.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:35:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Program.cs",
+              "RelativeDocumentMoniker": "FontIslemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Program.cs",
+              "RelativeToolTip": "FontIslemleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:58:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\README.md",
+              "RelativeDocumentMoniker": "KonumBoyutAyari\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\README.md",
+              "RelativeToolTip": "KonumBoyutAyari\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:18:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\README.md",
+              "RelativeDocumentMoniker": "FontIslemleri\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\README.md",
+              "RelativeToolTip": "FontIslemleri\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T12:58:54.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0130nput Box\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.cs",
+              "RelativeToolTip": "\u0130nput Box\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:23:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\README.md",
+              "RelativeDocumentMoniker": "U062_ScaleMetodu\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\README.md",
+              "RelativeToolTip": "U062_ScaleMetodu\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:04:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FontIslemleri\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\FontIslemleri\\Form1.Designer.cs",
+              "RelativeToolTip": "FontIslemleri\\Form1.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vywAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:48:37.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\.vs\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": ".vs\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\.vs\\Form1.Designer.cs",
+              "RelativeToolTip": ".vs\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:04:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KonumBoyutAyari.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\KonumBoyutAyari.csproj",
+              "RelativeDocumentMoniker": "KonumBoyutAyari\\KonumBoyutAyari.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\KonumBoyutAyari.csproj",
+              "RelativeToolTip": "KonumBoyutAyari\\KonumBoyutAyari.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:17:37.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.cs",
+              "RelativeDocumentMoniker": "KonumBoyutAyari\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.cs",
+              "RelativeToolTip": "KonumBoyutAyari\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:17:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KonumBoyutAyari\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Form1.Designer.cs",
+              "RelativeToolTip": "KonumBoyutAyari\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:18:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Program.cs",
+              "RelativeDocumentMoniker": "KonumBoyutAyari\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\KonumBoyutAyari\\Program.cs",
+              "RelativeToolTip": "KonumBoyutAyari\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:18:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\Form1.cs",
+              "RelativeDocumentMoniker": "U062_ScaleMetodu\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\Form1.cs",
+              "RelativeToolTip": "U062_ScaleMetodu\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:04:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.cs",
+              "RelativeDocumentMoniker": "ScaleMetodu\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.cs",
+              "RelativeToolTip": "ScaleMetodu\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:13:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ScaleMetodu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Form1.Designer.cs",
+              "RelativeToolTip": "ScaleMetodu\\Form1.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:13:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ScaleMetodu.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\ScaleMetodu.csproj",
+              "RelativeDocumentMoniker": "ScaleMetodu\\ScaleMetodu.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\ScaleMetodu.csproj",
+              "RelativeToolTip": "ScaleMetodu\\ScaleMetodu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:13:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\README.md",
+              "RelativeDocumentMoniker": "ScaleMetodu\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\README.md",
+              "RelativeToolTip": "ScaleMetodu\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:14:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Program.cs",
+              "RelativeDocumentMoniker": "ScaleMetodu\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ScaleMetodu\\Program.cs",
+              "RelativeToolTip": "ScaleMetodu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:14:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u0130nput Box\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Form1.Designer.cs",
+              "RelativeToolTip": "\u0130nput Box\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:25:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InputBox.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\InputBox.csproj",
+              "RelativeDocumentMoniker": "\u0130nput Box\\InputBox.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\InputBox.csproj",
+              "RelativeToolTip": "\u0130nput Box\\InputBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:29:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130nput Box\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\Program.cs",
+              "RelativeToolTip": "\u0130nput Box\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:26:08.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\README.md",
+              "RelativeDocumentMoniker": "\u0130nput Box\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\\u0130nput Box\\README.md",
+              "RelativeToolTip": "\u0130nput Box\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T12:26:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ZiplayanTop.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\ZiplayanTop.csproj",
+              "RelativeDocumentMoniker": "ZiplayanTop\\ZiplayanTop.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\ZiplayanTop.csproj",
+              "RelativeToolTip": "ZiplayanTop\\ZiplayanTop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:06:38.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\README.md",
+              "RelativeDocumentMoniker": "ZiplayanTop\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\README.md",
+              "RelativeToolTip": "ZiplayanTop\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T13:07:40.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Program.cs",
+              "RelativeDocumentMoniker": "ZiplayanTop\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Program.cs",
+              "RelativeToolTip": "ZiplayanTop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:07:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ZiplayanTop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.Designer.cs",
+              "RelativeToolTip": "ZiplayanTop\\Form1.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:08:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.cs",
+              "RelativeDocumentMoniker": "ZiplayanTop\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\ZiplayanTop\\Form1.cs",
+              "RelativeToolTip": "ZiplayanTop\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:08:42.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "U062_ScaleMetodu.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\U062_ScaleMetodu.csproj",
+              "RelativeDocumentMoniker": "U062_ScaleMetodu\\U062_ScaleMetodu.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\U062_ScaleMetodu\\U062_ScaleMetodu.csproj",
+              "RelativeToolTip": "U062_ScaleMetodu\\U062_ScaleMetodu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T13:04:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "VisibleAskerlik.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\VisibleAskerlik.csproj",
+              "RelativeDocumentMoniker": "VisibleAskerlik\\VisibleAskerlik.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\VisibleAskerlik.csproj",
+              "RelativeToolTip": "VisibleAskerlik\\VisibleAskerlik.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:46:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\README.md",
+              "RelativeDocumentMoniker": "VisibleAskerlik\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\README.md",
+              "RelativeToolTip": "VisibleAskerlik\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T12:34:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Program.cs",
+              "RelativeDocumentMoniker": "VisibleAskerlik\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Program.cs",
+              "RelativeToolTip": "VisibleAskerlik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:33:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VisibleAskerlik\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.Designer.cs",
+              "RelativeToolTip": "VisibleAskerlik\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:33:02.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.cs",
+              "RelativeDocumentMoniker": "VisibleAskerlik\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Muhammed \u0130sa Erkan 221001019\\VisibleAskerlik\\Form1.cs",
+              "RelativeToolTip": "VisibleAskerlik\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:29:34.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\bin\Debug\net8.0-windows\U062_ScaleMetodu.exe
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\bin\Debug\net8.0-windows\U062_ScaleMetodu.deps.json
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\bin\Debug\net8.0-windows\U062_ScaleMetodu.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\bin\Debug\net8.0-windows\U062_ScaleMetodu.dll
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\bin\Debug\net8.0-windows\U062_ScaleMetodu.pdb
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.dll
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\refint\U062_ScaleMetodu.dll
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.pdb
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\U062_ScaleMetodu.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U062_ScaleMetodu\obj\Debug\net8.0-windows\ref\U062_ScaleMetodu.dll

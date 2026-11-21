@@ -1,0 +1,28 @@
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.exe
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.deps.json
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.dll
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.pdb
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.dll
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\refint\U063_ZiplayanTop.dll
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.pdb
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U063_ZiplayanTop\obj\Debug\net8.0-windows\ref\U063_ZiplayanTop.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.deps.json
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.runtimeconfig.json
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\bin\Debug\net8.0-windows\U063_ZiplayanTop.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\refint\U063_ZiplayanTop.dll
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\U063_ZiplayanTop.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019\ZiplayanTop\obj\Debug\net8.0-windows\ref\U063_ZiplayanTop.dll

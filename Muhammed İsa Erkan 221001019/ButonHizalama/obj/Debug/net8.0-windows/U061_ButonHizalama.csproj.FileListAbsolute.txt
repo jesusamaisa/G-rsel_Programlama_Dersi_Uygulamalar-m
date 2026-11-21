@@ -1,0 +1,14 @@
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\bin\Debug\net8.0-windows\U061_ButonHizalama.exe
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\bin\Debug\net8.0-windows\U061_ButonHizalama.deps.json
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\bin\Debug\net8.0-windows\U061_ButonHizalama.runtimeconfig.json
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\bin\Debug\net8.0-windows\U061_ButonHizalama.dll
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\bin\Debug\net8.0-windows\U061_ButonHizalama.pdb
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.AssemblyInfoInputs.cache
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.AssemblyInfo.cs
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.csproj.CoreCompileInputs.cache
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.dll
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\refint\U061_ButonHizalama.dll
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.pdb
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\U061_ButonHizalama.genruntimeconfig.cache
+C:\Users\muham\YENİ DENEMELER\U061_ButonHizalama\obj\Debug\net8.0-windows\ref\U061_ButonHizalama.dll

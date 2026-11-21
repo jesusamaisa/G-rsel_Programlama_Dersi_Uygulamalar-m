@@ -1,0 +1,961 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SekilliForm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SekilliForm\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SekilliForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IkinciFormAcma\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormOzellikleri\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormOzellikleri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormOzellikleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormOzellikleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\FormOzellikleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormOzellikleri\\FormOzellikleri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\FormlarArasiErisim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormlarArasiErisim\\FormlarArasiErisim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinamikButon\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinamikButon\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinamikButon\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinamikButon\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\DinamikButon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinamikButon\\DinamikButon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CozunurlukOlcekleme\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CozunurlukOlcekleme\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CozunurlukOlcekleme\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CozunurlukOlcekleme\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcilisFormu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\HelpButton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelpButton\\HelpButton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U090_SekilliForm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U090_SekilliForm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U089_AcilisFormu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U089_AcilisFormu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U088_FormlarArasiErisim\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U087_IkinciFormAcma\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U088_FormlarArasiErisim\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U087_IkinciFormAcma\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U084_FormOzellikleri\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U086_CozunurlukOlcekleme\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U086_CozunurlukOlcekleme\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U085_DinamikButon\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U085_DinamikButon\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U084_FormOzellikleri\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U083_HelpButton\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U083_HelpButton\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Program.cs",
+              "RelativeDocumentMoniker": "SekilliForm\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Program.cs",
+              "RelativeToolTip": "SekilliForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:41:36.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SekilliForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.Designer.cs",
+              "RelativeToolTip": "SekilliForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:41:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SekilliForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\SekilliForm\\Form1.cs",
+              "RelativeToolTip": "SekilliForm\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:41:20.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\README.md",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\README.md",
+              "RelativeToolTip": "IkinciFormAcma\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:41:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Program.cs",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Program.cs",
+              "RelativeToolTip": "IkinciFormAcma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:40:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.cs",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.cs",
+              "RelativeToolTip": "IkinciFormAcma\\Form2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:40:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form2.Designer.cs",
+              "RelativeToolTip": "IkinciFormAcma\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:40:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.Designer.cs",
+              "RelativeToolTip": "IkinciFormAcma\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:40:40.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.cs",
+              "RelativeDocumentMoniker": "IkinciFormAcma\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\IkinciFormAcma\\Form1.cs",
+              "RelativeToolTip": "IkinciFormAcma\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:40:23.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Program.cs",
+              "RelativeDocumentMoniker": "FormOzellikleri\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Program.cs",
+              "RelativeToolTip": "FormOzellikleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:39:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormOzellikleri.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\FormOzellikleri.csproj",
+              "RelativeDocumentMoniker": "FormOzellikleri\\FormOzellikleri.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\FormOzellikleri.csproj",
+              "RelativeToolTip": "FormOzellikleri\\FormOzellikleri.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T13:39:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\README.md",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\README.md",
+              "RelativeToolTip": "FormlarArasiErisim\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:38:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Program.cs",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Program.cs",
+              "RelativeToolTip": "FormlarArasiErisim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:38:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.Designer.cs",
+              "RelativeToolTip": "FormlarArasiErisim\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:38:17.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.cs",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form2.cs",
+              "RelativeToolTip": "FormlarArasiErisim\\Form2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:38:11.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.cs",
+              "RelativeDocumentMoniker": "HelpButton\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.cs",
+              "RelativeToolTip": "HelpButton\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:33:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HelpButton\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Form1.Designer.cs",
+              "RelativeToolTip": "HelpButton\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:33:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Program.cs",
+              "RelativeDocumentMoniker": "HelpButton\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\Program.cs",
+              "RelativeToolTip": "HelpButton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:34:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\README.md",
+              "RelativeDocumentMoniker": "HelpButton\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\README.md",
+              "RelativeToolTip": "HelpButton\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T12:34:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\README.md",
+              "RelativeDocumentMoniker": "FormOzellikleri\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\README.md",
+              "RelativeToolTip": "FormOzellikleri\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:39:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.cs",
+              "RelativeDocumentMoniker": "FormOzellikleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.cs",
+              "RelativeToolTip": "FormOzellikleri\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:39:01.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormOzellikleri\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormOzellikleri\\Form1.Designer.cs",
+              "RelativeToolTip": "FormOzellikleri\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:39:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.Designer.cs",
+              "RelativeToolTip": "FormlarArasiErisim\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:38:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.cs",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\Form1.cs",
+              "RelativeToolTip": "FormlarArasiErisim\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:38:02.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormlarArasiErisim.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\FormlarArasiErisim.csproj",
+              "RelativeDocumentMoniker": "FormlarArasiErisim\\FormlarArasiErisim.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\FormlarArasiErisim\\FormlarArasiErisim.csproj",
+              "RelativeToolTip": "FormlarArasiErisim\\FormlarArasiErisim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T13:38:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\README.md",
+              "RelativeDocumentMoniker": "DinamikButon\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\README.md",
+              "RelativeToolTip": "DinamikButon\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:37:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Program.cs",
+              "RelativeDocumentMoniker": "DinamikButon\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Program.cs",
+              "RelativeToolTip": "DinamikButon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:37:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DinamikButon\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.Designer.cs",
+              "RelativeToolTip": "DinamikButon\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:37:22.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.cs",
+              "RelativeDocumentMoniker": "DinamikButon\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\Form1.cs",
+              "RelativeToolTip": "DinamikButon\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:37:07.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DinamikButon.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\DinamikButon.csproj",
+              "RelativeDocumentMoniker": "DinamikButon\\DinamikButon.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\DinamikButon\\DinamikButon.csproj",
+              "RelativeToolTip": "DinamikButon\\DinamikButon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T13:37:06.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "AcilisFormu\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.Designer.cs",
+              "RelativeToolTip": "AcilisFormu\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:36:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.cs",
+              "RelativeDocumentMoniker": "AcilisFormu\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form2.cs",
+              "RelativeToolTip": "AcilisFormu\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:36:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AcilisFormu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.Designer.cs",
+              "RelativeToolTip": "AcilisFormu\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:36:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.cs",
+              "RelativeDocumentMoniker": "AcilisFormu\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Form1.cs",
+              "RelativeToolTip": "AcilisFormu\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:36:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Program.cs",
+              "RelativeDocumentMoniker": "AcilisFormu\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\Program.cs",
+              "RelativeToolTip": "AcilisFormu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:35:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\README.md",
+              "RelativeDocumentMoniker": "AcilisFormu\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\AcilisFormu\\README.md",
+              "RelativeToolTip": "AcilisFormu\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:33:04.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\README.md",
+              "RelativeDocumentMoniker": "CozunurlukOlcekleme\\README.md",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\README.md",
+              "RelativeToolTip": "CozunurlukOlcekleme\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T13:17:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Program.cs",
+              "RelativeDocumentMoniker": "CozunurlukOlcekleme\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Program.cs",
+              "RelativeToolTip": "CozunurlukOlcekleme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:17:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CozunurlukOlcekleme\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.Designer.cs",
+              "RelativeToolTip": "CozunurlukOlcekleme\\Form1.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:17:25.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.cs",
+              "RelativeDocumentMoniker": "CozunurlukOlcekleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\CozunurlukOlcekleme\\Form1.cs",
+              "RelativeToolTip": "CozunurlukOlcekleme\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T13:17:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\App.config",
+              "RelativeDocumentMoniker": "HelpButton\\App.config",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\App.config",
+              "RelativeToolTip": "HelpButton\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T12:35:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HelpButton.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\HelpButton.csproj",
+              "RelativeDocumentMoniker": "HelpButton\\HelpButton.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\HelpButton\\HelpButton.csproj",
+              "RelativeToolTip": "HelpButton\\HelpButton.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T12:34:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Program.cs",
+              "RelativeDocumentMoniker": "U090_SekilliForm\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Program.cs",
+              "RelativeToolTip": "U090_SekilliForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:22:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Form1.cs",
+              "RelativeDocumentMoniker": "U090_SekilliForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U090_SekilliForm\\Form1.cs",
+              "RelativeToolTip": "U090_SekilliForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:22:04.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U089_AcilisFormu\\Program.cs",
+              "RelativeDocumentMoniker": "U089_AcilisFormu\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U089_AcilisFormu\\Program.cs",
+              "RelativeToolTip": "U089_AcilisFormu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:21:44.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Program.cs",
+              "RelativeDocumentMoniker": "U088_FormlarArasiErisim\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Program.cs",
+              "RelativeToolTip": "U088_FormlarArasiErisim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:21:05.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form2.cs",
+              "RelativeDocumentMoniker": "U087_IkinciFormAcma\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form2.cs",
+              "RelativeToolTip": "U087_IkinciFormAcma\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:21:01.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Form1.cs",
+              "RelativeDocumentMoniker": "U088_FormlarArasiErisim\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U088_FormlarArasiErisim\\Form1.cs",
+              "RelativeToolTip": "U088_FormlarArasiErisim\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:21:00.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form1.cs",
+              "RelativeDocumentMoniker": "U087_IkinciFormAcma\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U087_IkinciFormAcma\\Form1.cs",
+              "RelativeToolTip": "U087_IkinciFormAcma\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:20:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U086_CozunurlukOlcekleme\\Form1.cs",
+              "RelativeDocumentMoniker": "U086_CozunurlukOlcekleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U086_CozunurlukOlcekleme\\Form1.cs",
+              "RelativeToolTip": "U086_CozunurlukOlcekleme\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:19:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U085_DinamikButon\\Form1.cs",
+              "RelativeDocumentMoniker": "U085_DinamikButon\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U085_DinamikButon\\Form1.cs",
+              "RelativeToolTip": "U085_DinamikButon\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:19:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.cs",
+              "RelativeDocumentMoniker": "U084_FormOzellikleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.cs",
+              "RelativeToolTip": "U084_FormOzellikleri\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:13:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "U084_FormOzellikleri\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U084_FormOzellikleri\\Form1.Designer.cs",
+              "RelativeToolTip": "U084_FormOzellikleri\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:13:47.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U083_HelpButton\\Form1.cs",
+              "RelativeDocumentMoniker": "U083_HelpButton\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\G\u00F6rsel Programlama 17.11.26\\U083_HelpButton\\Form1.cs",
+              "RelativeToolTip": "U083_HelpButton\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T12:13:09.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\bin\Debug\FormOzellikleri.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\bin\Debug\FormOzellikleri.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\bin\Debug\FormOzellikleri.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormOzellikleri\obj\Debug\FormOzellikleri.pdb

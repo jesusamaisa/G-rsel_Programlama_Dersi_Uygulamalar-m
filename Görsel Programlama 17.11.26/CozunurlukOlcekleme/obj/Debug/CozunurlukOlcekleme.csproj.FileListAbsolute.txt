@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\bin\Debug\CozunurlukOlcekleme.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\bin\Debug\CozunurlukOlcekleme.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\bin\Debug\CozunurlukOlcekleme.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\CozunurlukOlcekleme\obj\Debug\CozunurlukOlcekleme.pdb

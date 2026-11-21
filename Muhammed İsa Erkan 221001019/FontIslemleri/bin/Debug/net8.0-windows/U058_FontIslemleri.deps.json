@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "U058_FontIslemleri/1.0.0": {
+        "runtime": {
+          "U058_FontIslemleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U058_FontIslemleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

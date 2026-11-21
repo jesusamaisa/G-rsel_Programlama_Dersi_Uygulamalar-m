@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\bin\Debug\FormlarArasiErisim.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\bin\Debug\FormlarArasiErisim.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\bin\Debug\FormlarArasiErisim.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\FormlarArasiErisim\obj\Debug\FormlarArasiErisim.pdb

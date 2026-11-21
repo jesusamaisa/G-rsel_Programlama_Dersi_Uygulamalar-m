@@ -1,0 +1,32 @@
+Windows form uygulamalarına başlayacağız.
+
+1.textBox kontrolünde girilen değerin (metnin) Listbox içinde olup olmadığını kontrole ederek değerin listboc içinde olması halinde bu değerleri seçişihale getirecek uyhulamayı yapınız.
+
+2. listbox1'de yer alan kişiler listesinden istenilen kişi ismin sürükle bırak yöntemi ile listbox2'ye aktaran programın form uygulamasında ait kodlarını yzaınız
+
+3.
+1 tane panel 1 a tane RadioGroup RadioGroup1),3 tane ScroolBar sb1,sb2,sb3) ve 3tane de Label yer almaktadır. Kullanıcıradio group bileşenindeli seçenelerden birini seçtikten sonra scroolBarların değeridni istediği gibi seçip renkler oluşturacaktır. Oluşturulan bu renklerde ScroolaBarların değerşeri değişir değiüşöez yapılan seçime göre ya panelin zemin rengini yada yada panelin yazı rengini değiştirecektir. Anlarılanları gerçekliştirebilmemiz için yapmamız gereken ön ayarları ve yazmamız gereken kodları yazınız. Kodların hangi bileşenlerin hangi olarlarına yazılması gerektiğini belirtiniz.
+
+
+
+4.. Asağıda belirtlien kuralları gerçekleştiren Windows form uygulamasını yapınız.
+
+Bir windpws forms uygulamasında form üzerinde aşağıdaki bileşnler yer almalıdır.
+1. kullanıcının birden fazla ürün ekleyebilkecceği bir siste oluşturun:
+Ürün adı ve fiyatını girmek için iki textbox  adı: txtProductName, Fİyatı : txtProductPrice)
+Bir buton  Adını: (btnAddProduct yapın, tıklanınca girilen ürün adı ve fiyatı bşr listeye eklenmelidir)
+ürünleri listelemek için bir ListBox ( lstProducts)
+
+2. Listeye eklenen ürünleri bir düğmeye basarak Listeleyin. Listeleme sırasında toplam fiyatı da gösterin:
+Bir Button (  Adını : btnShowTotal yapın, tıklanınca ListBox içindeki ürünlerin isimleri ve fiyatları listelenmeli ve toplam fiyat Label üzerinde gösterilmelidir.
+
+Kurallar: Kullanıcı hem ürün adı hem de fiyat girmeden ürün ekleyemesin.Eğer eksik bilgi varsa uyarı mesajı verilsin.
+Fiyat kısmında yalnızca sayısal değer girebilsin
+Toplam Tutar tüm ürünlerin fiyatlarının toplamı olmalıdır.
+
+
+
+5.  Programda üstünde "H" yazan buton kordinatları 0,0) ile 250,250) arasında hareket edebilmektedir. Yan tarafta ise 1 textbox ve 5 adet buton vardır."<" işareti butona basınca sola,">" işareti butona basınca  sağa, "^" işareti basınca yukarı ve "V" işareti basınca aşağıya textboxun içindeki değer lakdar hareket etmektedir. "H"  butonu 0,0 kordinatlarınınarı altına inmez ve 250,250 üstüne çıkmaz eğer texxtboxa değer girilmezse yada hatalı değer girilirse uyarı verecek Eğer R butonuna masılırsa H butonu rastfele bir yere konumlanacak. Programı yazınız.
+
+
+

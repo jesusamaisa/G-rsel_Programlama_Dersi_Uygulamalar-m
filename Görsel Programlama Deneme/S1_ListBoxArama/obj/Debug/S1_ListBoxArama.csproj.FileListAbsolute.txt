@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\bin\Debug\S1_ListBoxArama.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\bin\Debug\S1_ListBoxArama.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\bin\Debug\S1_ListBoxArama.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama Deneme\S1_ListBoxArama\obj\Debug\S1_ListBoxArama.pdb
