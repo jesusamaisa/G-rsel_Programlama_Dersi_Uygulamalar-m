@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\bin\Debug\LabelKisayol.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\bin\Debug\LabelKisayol.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\bin\Debug\LabelKisayol.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LabelKisayol\obj\Debug\LabelKisayol.pdb

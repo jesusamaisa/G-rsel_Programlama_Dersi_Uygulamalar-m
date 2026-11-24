@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\bin\Debug\SifreGirisi.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\bin\Debug\SifreGirisi.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\bin\Debug\SifreGirisi.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SifreGirisi\obj\Debug\SifreGirisi.pdb

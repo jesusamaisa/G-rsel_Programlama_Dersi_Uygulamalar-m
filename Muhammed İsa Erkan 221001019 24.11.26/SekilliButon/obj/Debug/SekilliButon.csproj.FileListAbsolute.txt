@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\bin\Debug\SekilliButon.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\bin\Debug\SekilliButon.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\bin\Debug\SekilliButon.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliButon\obj\Debug\SekilliButon.pdb

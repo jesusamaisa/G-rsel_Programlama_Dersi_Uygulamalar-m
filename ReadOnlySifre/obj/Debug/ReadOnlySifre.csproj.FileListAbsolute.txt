@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\bin\Debug\ReadOnlySifre.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\bin\Debug\ReadOnlySifre.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\bin\Debug\ReadOnlySifre.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\ReadOnlySifre\obj\Debug\ReadOnlySifre.pdb

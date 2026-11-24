@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\LinkLabel\obj\Debug\LinkLabel.pdb

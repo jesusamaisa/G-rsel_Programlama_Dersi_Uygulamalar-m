@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\bin\Debug\AcilisFormu.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\bin\Debug\AcilisFormu.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\bin\Debug\AcilisFormu.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\AcilisFormu\obj\Debug\AcilisFormu.pdb

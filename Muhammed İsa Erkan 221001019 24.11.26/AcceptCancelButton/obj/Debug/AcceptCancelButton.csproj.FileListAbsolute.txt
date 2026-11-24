@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\bin\Debug\AcceptCancelButton.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\bin\Debug\AcceptCancelButton.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\bin\Debug\AcceptCancelButton.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\AcceptCancelButton\obj\Debug\AcceptCancelButton.pdb

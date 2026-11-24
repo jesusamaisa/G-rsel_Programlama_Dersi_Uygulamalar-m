@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\bin\Debug\IkinciFormAcma.exe.config
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\bin\Debug\IkinciFormAcma.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\bin\Debug\IkinciFormAcma.pdb
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.exe
+C:\Users\muham\OneDrive\Desktop\Görsel Programlama 17.11.26\IkinciFormAcma\obj\Debug\IkinciFormAcma.pdb

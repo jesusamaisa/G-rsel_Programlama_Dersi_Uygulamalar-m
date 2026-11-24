@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\bin\Debug\SekilliFormRegion.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\bin\Debug\SekilliFormRegion.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\bin\Debug\SekilliFormRegion.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\SekilliFormRegion\obj\Debug\SekilliFormRegion.pdb

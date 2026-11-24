@@ -1,0 +1,9 @@
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\bin\Debug\CokSatirliTextBox.exe.config
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\bin\Debug\CokSatirliTextBox.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\bin\Debug\CokSatirliTextBox.pdb
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.exe
+C:\Users\muham\OneDrive\Desktop\Muhammed İsa Erkan 221001019 24.11.26\CokSatirliTextBox\obj\Debug\CokSatirliTextBox.pdb
